@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "428766690247",
+    "firebase_url": "https://map-helps.firebaseio.com",
+    "project_id": "map-helps",
+    "storage_bucket": "map-helps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428766690247:android:d2c1d3924fc851b60737e2",
+        "android_client_info": {
+          "package_name": "com.example.maphelps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428766690247-cfbdqt04s95k4a9jaf1ui6obu2qe9a18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArrtIz6e-vu4w5RGl2sRsnZoRWfFEbMIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428766690247-cfbdqt04s95k4a9jaf1ui6obu2qe9a18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
